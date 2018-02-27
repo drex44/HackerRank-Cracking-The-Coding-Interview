@@ -1,6 +1,6 @@
 #!/bin/python3
 
-## https://www.hackerrank.com/challenges/ctci-coin-change/submissions/code/65195432
+## https://www.hackerrank.com/challenges/ctci-coin-change
 
 import sys
 
