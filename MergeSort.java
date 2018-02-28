@@ -64,9 +64,5 @@ public class MergeSort {
 		}
 
 	}
-
-<<<<<<< HEAD
 }
-=======
 }
->>>>>>> 5f1e3f9ecd99b2c4a1c4d0efa9765d5b73399ae8
